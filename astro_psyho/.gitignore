@@ -1,6 +1,6 @@
 /.venv/*
 *.pyc
 .idea/
-
+**/.idea/
 *.log
 .env
